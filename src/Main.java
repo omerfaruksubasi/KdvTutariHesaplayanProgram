@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-	    double tutar, kdvliTutar,kdv;
+	double tutar, kdvliTutar,kdv;
         Scanner input = new Scanner(System.in);
         System.out.print("kdv sini hesapliyicaginiz tutari giriniz: ");
         tutar = input.nextDouble();
